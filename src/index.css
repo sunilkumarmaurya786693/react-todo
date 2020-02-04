@@ -1,0 +1,12 @@
+body{
+    padding: 50px;
+    background-color: #66ccff;
+    font-family: sans-serif;
+    margin: 0;
+}
+#container{
+    display: flex;
+    justify-content: flex;
+    margin-left: 40%;
+    /* margin-top: 0%; */
+}
